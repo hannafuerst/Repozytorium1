@@ -1,0 +1,1 @@
+zobaczymy co bedzie dalej
