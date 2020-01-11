@@ -1,1 +1,4 @@
 izaczynam przygodę
+
+
+Git to system kontroli wersji
